@@ -1,0 +1,24 @@
+header{
+  text-align: center;
+}
+
+h1{
+  
+    color:blueviolet;
+}
+body {
+    background-color: red;
+  }
+  
+ #photo { width:300px;
+   height:300px;
+  border-radius: 50%; 
+margin-left: 200px;
+margin-right: 200px;}
+
+  #piccontainer {
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: blue;
+  }
+  #quote {font-size: 50px;}
